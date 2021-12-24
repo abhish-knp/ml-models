@@ -1,2 +1,2 @@
 # ml-models
-end to end machine learning models for supervised and unsupervised learning
+To apply unsupervised machine learning model on Boston Housing data.
