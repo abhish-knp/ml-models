@@ -1,2 +1,2 @@
-# EDA_data_science
-To do Exploratory Data Analysis in depth.
+# EDA_UseCase
+- To apply method and techniques for optimization and genral purpose use. 
